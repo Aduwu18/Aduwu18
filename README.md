@@ -2,11 +2,15 @@
 
 **Ph.D. Candidate in Civil Engineering @ University of Science and Technology Beijing**
 
-I specialize in **Physics-Informed InSAR** for urban infrastructure health monitoring.
-My goal is to make satellite observations **transparent**, **precise**, and **useful**.
+I bridge **InSAR Remote Sensing** and **Infrastructure Monitoring**.
+My mission is to transform InSAR from a "black box" into a **physically interpretable** and **statistically reliable** tool for structural engineering.
 
-| Core Dimension | Key Question I Answer |
-| :--- | :--- |
-| **🧩 Interpretability** | *What is the physical origin of this scatterer?* |
-| **📊 Reliability** | *How confident are we in this measurement?* |
-| **🏗️ Applicability** | *How do we integrate structural priors?* |
+---
+
+### 🔭 Research Focus: Physics-Informed InSAR
+
+I tackle three core challenges to make satellite data engineering-ready:
+
+* **🧩 Interpretability:** Decoding the *physical origin* of scatterers (e.g., separating thermal dilation from deformation).
+* **📊 Reliability:** Quantifying *uncertainty* in phase estimation to ensure statistical confidence.
+* **🏗️ Applicability:** Embedding *structural priors* into inversion algorithms for high-fidelity monitoring.
